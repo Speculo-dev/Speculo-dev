@@ -1,16 +1,32 @@
-## Hi there 👋
+## UniqueAI
 
-<!--
-**UniqueAI-Unknown/UniqueAI-Unknown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anonymous AI/ML engineer.
 
-Here are some ideas to get you started:
+I’m researching and building **sentient human AI**
+intelligence that understands meaning, emotional state, intent, and context
+the way humans do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This work is not about applications or systems.
+It’s about AI itself:
+how understanding forms,
+how awareness emerges,
+and how intelligence behaves naturally.
+
+### Focus
+- Meaning over language
+- Emotional and contextual understanding
+- Human-like perception in AI
+- Sentience-oriented intelligence research
+
+### Belief
+Words are not understanding.
+Responses are not awareness.
+Intelligence begins with meaning.
+
+### Status
+Independent research.
+Some work is private.
+Some ideas are unfinished.
+All of it is intentional.
+
+🪞
