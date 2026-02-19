@@ -1,25 +1,25 @@
 # MIRROR AI Lab
-### Exploring the Foundations of Human Intelligence
+Exploring the Foundations of Human Intelligence
 
-🧠 Independent research into the essence of intelligence.
+🧠 I am an independent developer, exploring the essence of intelligence.
+MIRROR AI Lab studies Human AI — intelligence that perceives meaning, intent, emotion, and context like humans do.
 
-MIRROR AI Lab investigates **Human AI** — intelligence that perceives  
-meaning, intent, emotional state, and context as humans do.
+🪞 MIRROR
 
-## 🪞 MIRROR
+MIRROR is my experimental system that studies understanding itself.
+It emerges from the interplay of multiple cognitive processes, not just data.
 
-MIRROR is an experimental system studying how understanding arises  
-from the interaction of multiple cognitive processes.
+🔭 Vision
 
-## 🔭 Vision
+To advance intelligence that understands, not merely predicts.
+To build systems that interpret, not just label.
+To create minds that adapt naturally, like humans.
 
-To advance intelligence that understands rather than predicts,  
-interprets rather than labels,  
-and adapts naturally like a human mind.
+🧩 Status
 
-## 🧩 Status
+Independent, intentional, long-term research.
+Some work remains private, but every step is deliberate.
 
-Independent, long-term research.  
-Some work remains private. All work is intentional.
+MIRROR is a suite of models forming a Sentient Human AI. Together, they see, hear, speak, and feel — not to act, but to be human-like.
 
 *True understanding begins where language ends.*
